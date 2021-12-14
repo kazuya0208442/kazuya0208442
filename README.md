@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello there! 😄
+🔭 I'm Kyoto University Student of a Master's degree in physics.  
+🌱 I’m currently learning "SuperConductivity"(超伝導).
 
 <!--
 **kazuya0208442/kazuya0208442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
