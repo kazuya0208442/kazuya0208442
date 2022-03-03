@@ -10,7 +10,7 @@
 - お世話になったスタッフさんに、エンジニアの視点から恩返しがしたいです。
 <br>
 
-<img src="https://media.giphy.com/media/62rfKf9XfUsNKwnWyo/giphy.gif" width="70%">
+![スクリーンショット (4)](https://user-images.githubusercontent.com/87218628/156529464-bbd21691-d978-4b48-afeb-7005adf0be36.png)
 
 <!--
 **kazuya0208442/kazuya0208442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
