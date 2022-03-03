@@ -8,7 +8,7 @@
 :football:&ensp; 日本のアスリート育成事業をITの力で便利にするために「**運動日誌アプリ**」を作りました。:point_right:  &nbsp;[http://kazuya-portfolio.com](http://kazuya-portfolio.com/)  
 <br>
 
-<img src="https://media.giphy.com/media/62rfKf9XfUsNKwnWyo/giphy.gif" width="60%">
+<img src="https://media.giphy.com/media/62rfKf9XfUsNKwnWyo/giphy.gif" width="70%">
 
 <!--
 **kazuya0208442/kazuya0208442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
