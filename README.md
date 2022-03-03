@@ -1,6 +1,7 @@
 # Hello there! 😄
-🔭 I'm Kyoto University Student of a Master's degree in physics.  
-🌱 I’m currently learning "SuperConductivity"(超伝導).
+:rocket:  &ensp;京都大学大学院 &ensp;物性物理学  
+🌱 「超伝導体」について研究しています。  
+:football:&ensp; 日本のアスリート育成事業をITの力で便利にするために「運動日誌アプリ」を作りました。
 
 <!--
 **kazuya0208442/kazuya0208442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
