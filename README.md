@@ -5,7 +5,10 @@
 - 第61回高圧討論会 口頭発表  
 - 東京大学外来研究員 (圧力下NMR測定法に関する開発)
 
-:football:&ensp; 日本のアスリート育成事業をITの力で便利にするために「**運動日誌アプリ**」を作りました。
+:football:&ensp; 日本のアスリート育成事業をITの力で便利にするために「**運動日誌アプリ**」を作りました。:point_right:  &nbsp;[http://kazuya-portfolio.com](http://kazuya-portfolio.com/)  
+<br>
+
+<img src="https://media.giphy.com/media/62rfKf9XfUsNKwnWyo/giphy.gif" width="60%">
 
 <!--
 **kazuya0208442/kazuya0208442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
