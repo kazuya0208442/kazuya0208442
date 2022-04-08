@@ -22,7 +22,9 @@
 
 ![hero2-min-min](https://user-images.githubusercontent.com/87218628/162398890-064f4258-acba-4593-8eed-350e4adef300.jpg)
 
+私の場合は11種目のスポーツを経験させていただきました。
 <br>
+
 
 
 - **小学生**
